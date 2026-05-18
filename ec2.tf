@@ -1,4 +1,4 @@
 resource "aws_instance" "myec2" {
     amih = "ami-00c39f71452c08778"
-    instance_type = "t2.micro"
+    instance_type = "t2.micro"""
 }
